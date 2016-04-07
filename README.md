@@ -1,1 +1,2 @@
-# LearningChartAPI-in-javaFX
+# LearningChartAPI in javaFX
+
